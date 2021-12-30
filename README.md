@@ -1,5 +1,5 @@
 # BtcAnalyzerLambda
-Lambda handler for https://github.com/Eerosal/BtcAnalyzerWeb.
+AWS Lambda handler for https://github.com/Eerosal/BtcAnalyzerWeb.
 
 Lambda runtime used is Corretto 11. It's a bit slow to cold start.
 
